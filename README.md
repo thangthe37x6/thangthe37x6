@@ -1,16 +1,22 @@
-## Hi there 👋
+# Xin chào! 👋
 
-<!--
-**thangthe37x6/thangthe37x6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Thang rieu, I am a AI engineer and research 
 
-Here are some ideas to get you started:
+## 🚀 Skill
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 **Backend**: Node.js, Express, Python, Flask, fast api
+- 🛢️ **Database**: MongoDB 
+- 🛠️ **Công cụ**: Git, Docker, VS Code  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username-của-bạn]&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[username-của-bạn]&layout=compact&theme=dracula)
+
+## 📫 Liên hệ với tôi
+
+- 🌍 **Website**: [yourwebsite.com](URL)  
+- 📧 **Email**: [thangrieu37@gmail.com](mailto:thangrieu37@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/yourname](https://www.linkedin.com/in/thang-cao-the-b34b26253/)    
+
+---
+
+yeah yeah !!!
