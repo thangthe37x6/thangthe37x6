@@ -1,7 +1,7 @@
 My name is Thang rieu, I am a AI engineer and research 
 ## 🚀 Skill
 
-- 🐍 **Backend**: Node.js, Express, Python, Flask, fast api 
+- 🐍 **Programer**: Python 
 - 🛢️ **Database**: MongoDB 
 - 🛠️ **Công cụ**: Git, Docker, VS Code  
 ##
